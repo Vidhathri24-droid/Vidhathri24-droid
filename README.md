@@ -45,15 +45,11 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidhathri24-droid&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Vidhathri24-droid&show_icons=true&theme=github_dark)
 
----
+![](https://streak-stats.demolab.com?user=Vidhathri24-droid&theme=github-dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vidhathri24-droid)
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhathri24-droid&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhathri24-droid&layout=compact&theme=github_dark)
 
 ---
 
