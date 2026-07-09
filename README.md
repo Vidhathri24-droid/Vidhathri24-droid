@@ -1,4 +1,4 @@
-# Hi 👋 I'm Vidhathri Poluru
+# Hi 👋 I'm Vidhathri
 
 🎓 Third-Year B.Tech CSE Student
 🏫 Amrita Vishwa Vidyapeetham, Amritapuri
